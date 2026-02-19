@@ -5,7 +5,7 @@ Mobilna aplikacja wspomagająca dostęp do danych zawodników w klubach piłkars
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Cel projektu:
+Cel projektu
 
 Celem aplikacji jest umożliwienie zarządzania danymi zawodników, kontrolowania statusu składek członkowskich oraz prezentowania statystyk sportowych w zależności od roli użytkownika:
 
@@ -154,15 +154,3 @@ Możliwości dalszego rozwoju:
 - Powiadomienia dla użytkowników,
 
 - Obsługa multimediów (zdjęcia, wideo).
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Informacje o pracy:
-
-Praca inżynierska
-Kierunek: Informatyka
-Specjalność: Programowanie
-Uniwersytet WSB Merito w Poznaniu – Wydział Zamiejscowy w Chorzowie
-Rok: 2026
-
