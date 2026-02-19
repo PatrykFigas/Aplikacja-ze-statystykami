@@ -1,4 +1,4 @@
-----------------------------------------------------------------------------------------------------------------------------------------APLIKACJA ZE STATYSTYKAMI PIŁAKRSKIMI--------------------------------------------------------------------------------------------------------------------------------------------------
+APLIKACJA ZE STATYSTYKAMI PIŁAKRSKIMI
 
 
 Mobilna aplikacja wspomagająca dostęp do danych zawodników w klubach piłkarskich. Projekt został zrealizowany jako praca inżynierska na kierunku Informatyka (specjalność: Programowanie) na Uniwersytecie WSB Merito.
